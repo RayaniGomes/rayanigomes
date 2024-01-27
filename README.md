@@ -1,11 +1,15 @@
-### Olá, eu sou Rayani Gomes!
+<div>
+ <h1 align="center">
+  Olá!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><br>
+  Eu sou Rayani Gomes
+ </h1>
+</div>
 
-##
-
- <div>
-   <a href="https://github.com/RayaniGomes">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RayaniGomes&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayaniGomes&layout=compact&langs_count=6&theme=react"/>
+<div>
+ <a href="https://github.com/RayaniGomes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RayaniGomes&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayaniGomes&layout=compact&langs_count=6&theme=react"/>
 </div>
      
 ##
