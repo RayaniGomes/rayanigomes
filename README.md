@@ -17,9 +17,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=RayaniGomes&theme=react&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RayaniGomes&theme=react&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RayaniGomes&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=RayaniGomes&label=Profile%20Views&color=1&pretty=true" />
-</a>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
