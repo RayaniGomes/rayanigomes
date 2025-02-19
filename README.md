@@ -6,7 +6,7 @@
 <p>
  Graduanda do curso de Bacharelado em Ciência e Tecnolofia na UFRN</br>
  Assessorra de Projeto na @EJECT4UFRN como desenvolveroda Front-end</br>
- Estagiaria na startup Zaori Data do Grupo Interjato como desenvolveroda Front-end
+ Estagiaria na startup Zaori Data do Grupo Interjato como desenvolvedora Front-end
 </p>
 
 ## 🌐 Socials:
