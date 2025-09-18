@@ -1,11 +1,11 @@
 <h2 align="center">
- Olá! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><br>
+ Olá! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><br/>
  Eu sou Rayani Gomes
 </h2>
 
 <p>
- Graduanda do curso de Bacharelado em Ciência e Tecnolofia na UFRN</br>
- Estagiaria na startup Zaori Data do Grupo Interjato como desenvolvedora Front-end
+ Bacharel em Ciência e Tecnologia pela UFRN <br/>
+ Cursando Engenharia Mecatrônica na UFRN
 </p>
 
 ## 🌐 Socials:
@@ -19,10 +19,4 @@
 ### Design 
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-## 📊 Stats:
-<div align="center">
-  <a href="https://github.com/RayaniGomes">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RayaniGomes&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayaniGomes&layout=compact&langs_count=7&theme=react"/>
-  </a>
-</div>
+
